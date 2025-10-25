@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "duration_seconds": 10,
+  "title": "Welcome to PC Classic Mini SNES!",
+  "bodytext": "This frontend is free, please enjoy! Remember to use the Netplay feature!",
+  "link": {
+    "url": "https://www.patreon.com/c/exodus_cl",
+    "text": "Follow me on Patreon!"
+  }
+}
