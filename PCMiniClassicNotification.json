@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "duration_seconds": 10,
-  "title": "Welcome to PC Classic Mini SNES!",
-  "bodytext": "Remember to use the Netplay feature! The next update will be ready soon.",
+  "title": "Welcome to PC Classic Mini!",
+  "bodytext": "Remember to use the Netplay feature!",
   "link": {
     "url": "https://www.patreon.com/c/exodus_cl/collections",
     "text": "Check my other apps!"
