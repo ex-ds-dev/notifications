@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "duration_seconds": 10,
-  "title": "Thank you for your support this month!",
+  "title": "Thank you for your support!",
   "bodytext": "Don't forget to check the other consoles in the Classic Mini Collection!",
   "link": {
     "url": "https://www.patreon.com/c/exodus_cl/collections",
