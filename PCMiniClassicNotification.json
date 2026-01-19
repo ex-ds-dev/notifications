@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "duration_seconds": 10,
-  "title": "Welcome to PC Classic Mini!",
-  "bodytext": "Remember to use the Netplay feature!",
+  "title": "Thank you for your support!",
+  "bodytext": "Don't forget to check the Classic Mini Collection!",
   "link": {
     "url": "https://www.patreon.com/c/exodus_cl/collections",
-    "text": "Check my other apps!"
+    "text": "Check the entire collection!"
   }
 }
