@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "duration_seconds": 5,
+  "title": "Thank you for your support!",
+  "bodytext": "Don't forget to check my other apps and also the Classic Mini Collection!",
+  "link": {
+    "url": "https://www.patreon.com/c/Exodus_cl",
+    "text": "GO TO PATREON"
+  }
+}
