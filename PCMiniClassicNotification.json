@@ -1,10 +1,11 @@
 {
   "enabled": true,
-  "duration_seconds": 10,
-  "title": "IMPORTANT",
-  "bodytext": "GO TO NETWORK OPTIONS AND SELECT DOWNLOAD GAME COLLECTION",
+  "duration_seconds": 5,
+  "title": "Welcome to PC Classic Mini",
+  "bodytext": "If you like my work, you can buy me a coffee!,
   "link": {
-    "url": "https://www.patreon.com/c/exodus_cl/collections",
-    "text": "Check my other apps"
+    "url": "https://www.patreon.com/c/exodus_cl/membership",
+    "text": "GO TO PLATREON"
   }
 }
+
