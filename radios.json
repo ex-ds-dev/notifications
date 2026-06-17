@@ -6,6 +6,12 @@
     "url": "https://jenny.torontocast.com:2000/stream/J1HITS"
   },
   {
+    "name": "JPopsuki Radio",
+    "tagline": "We believe in music",
+    "logo": "https://ex-ds-dev.github.io/notifications/jpopsuki.png",
+    "url": "http://jpopsuki.fm:8000/stream"
+  },
+  {
     "name": "Japan City Pop",
     "logo": "https://ex-ds-dev.github.io/notifications/Japan-City-Pop.png",
     "tagline": "Ride the Waves of Retro Tokyo",
