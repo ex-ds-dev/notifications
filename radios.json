@@ -1,9 +1,9 @@
 [
   {
-    "name": "Only Hits Japan",
-    "tagline": "Japan's Hottest Hits",
+    "name": "J-Pop Powerplay",
+    "tagline": "The Heart of J-Pop Music",
     "logo": "https://ex-ds-dev.github.io/notifications/j1.png",
-    "url": "https://jenny.torontocast.com:2000/stream/J1HITS"
+    "url": "https://kathy.torontocast.com/powerplay"
   },
   {
     "name": "JPopsuki Radio",
