@@ -2,22 +2,25 @@
   {
     "name": "J-MusicAnime Radio",
     "tagline": "J-Music & Anime Soundtracks",
-    "logo": "https://ex-ds-dev.github.io/notifications/J-MusicAnime%20Radio.png",
+    "logo": "https://ex-ds-dev.github.io/notifications/J-MusicAnime-Radio.png",
     "url": "https://stream.zenolive.com/g0wsfbbaft5tv"
   },
   {
     "name": "Japan City Pop",
+    "logo": "https://ex-ds-dev.github.io/notifications/Japan-City-Pop.png",
     "tagline": "Ride the Waves of Retro Tokyo",
     "url": "https://play.streamafrica.net/japancitypop"
   },
   {
     "name": "Asia Dream Radio",
     "tagline": "The Heart of J-Pop Music",
+    "logo": "https://ex-ds-dev.github.io/notifications/Asia-Dream-Radio.png",
     "url": "https://quincy.torontocast.com:2020/"
   },
   {
     "name": "J-Rock Powerplay",
     "tagline": "The best Japanese Rock Experience",
+    "logo": "https://ex-ds-dev.github.io/notifications/J-Rock-Powerplay.png",
     "url": "https://kathy.torontocast.com:3340/"
   }
   
