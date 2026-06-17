@@ -1,6 +1,23 @@
-{
-  "JMusicAnime Radio": "https://stream.zenolive.com/g0wsfbbaft5tv",
-  "Japan City Pop": "https://play.streamafrica.net/japancitypop",
-  "Asia DREAM radio": "https://quincy.torontocast.com:2020/stream",
-  "J-R&P Powerplay":"https://kathy.torontocast.com:3340/;"
-}
+[
+  {
+    "name": "JMusicAnime Radio",
+    "tagline": "J-Music and anime soundtracks",
+    "url": "https://stream.zenolive.com/g0wsfbbaft5tv"
+  }
+  {
+    "name": "Japan City Pop",
+    "tagline": "Ride the Waves of Retro Tokyo",
+    "url": "https://play.streamafrica.net/japancitypop"
+  }
+  {
+    "name": "Asia DREAM radio",
+    "tagline": "The Heart of J-Pop Music.",
+    "url": "https://quincy.torontocast.com:2020/"
+  }
+  {
+    "name": "J-Rock Powerplay",
+    "tagline": "The best Japanese rock experience",
+    "url": "https://kathy.torontocast.com:3340/"
+  }
+  
+]
