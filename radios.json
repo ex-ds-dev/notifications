@@ -28,6 +28,12 @@
     "tagline": "The best Japanese Rock Experience",
     "logo": "https://ex-ds-dev.github.io/notifications/J-Rock-Powerplay.png",
     "url": "https://kathy.torontocast.com:3340/"
+  },
+  {
+    "name": "Rock 2000's FM",
+    "tagline": "Maximum 2000's Rock",
+    "logo": "https://ex-ds-dev.github.io/notifications/rockfm1.png",
+    "url": "https://stream.regenbogen2.de/2000errock/mp3-128/"
   }
   
 ]
