@@ -30,10 +30,10 @@
     "url": "https://kathy.torontocast.com:3340/"
   },
   {
-    "name": "Classic Rock",
-    "tagline": "Classic rock to the MAX",
-    "logo": "https://ex-ds-dev.github.io/notifications/radiologos/classicrock.png",
-    "url": "https://classicrock.stream.laut.fm/classicrock"
+    "name": "Best of Rock FM",
+    "tagline": "Alternative Rock to the MAX",
+    "logo": "https://ex-ds-dev.github.io/notifications/radiologos/bestrockFM.png",
+    "url": "https://bestofrockfm.stream.vip/altrock/mp3-256/"
   }
   
 ]
