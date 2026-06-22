@@ -34,6 +34,12 @@
     "tagline": "Alternative Rock to the MAX",
     "logo": "https://ex-ds-dev.github.io/notifications/radiologos/bestrockFM.png",
     "url": "https://bestofrockfm.stream.vip/altrock/mp3-256/"
-  }
+  },
+  {
+    "name": "Los Santos Style",
+    "tagline": "Today and Back in the Day!",
+    "logo": "https://ex-ds-dev.github.io/notifications/radiologos/santos.png",
+    "url": "https://80s-90s.stream.laut.fm/80s-90s"
+  },
   
 ]
