@@ -18,5 +18,9 @@
   {
     "name": "Streami RU",
     "url": "https://streamic.ru/" 
+  },
+  {
+    "name": "Stremio test",
+    "url": "stremio:///detail/movie/tt19465630/tt19465630" 
   } 
 ]
