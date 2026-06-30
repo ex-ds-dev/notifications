@@ -12,15 +12,11 @@
     "url": "https://ppv.to/"
   },
   {
-    "name": "Palco Streams", 
-    "url": "stremio:///detail/movie/tt19465630/tt19465630" 
-  }, 
-  {
     "name": "Streami RU",
     "url": "https://streamic.ru/" 
   },
   {
     "name": "Stremio test",
-    "url": "stremio:///detail/movie/tt19465630/tt19465630" 
+    "url": "https://www.strem.io/s/movie/tt19465630" 
   } 
 ]
