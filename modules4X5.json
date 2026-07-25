@@ -1,1 +1,12 @@
-asd
+{
+  "enabled": true,
+  "id": "notif_2026_01_update",
+  "title": "🎉 New Features Available!",
+  "subtitle": "Check out our latest module updates and new customization options.",
+  "duration": 8,
+  "cta": {
+    "text": "Learn More",
+    "url": "https://www.patreon.com/c/exodus_cl",
+    "newTab": true
+  }
+}
