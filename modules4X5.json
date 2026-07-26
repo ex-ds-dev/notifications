@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "id": "notif_2026_01_update",
-  "title": "🎉 New Features Available!",
-  "subtitle": "Check out our latest module updates and new customization options.",
+  "title": "Thank you for using Object Modules for X5",
+  "subtitle": "You can go to my Patreon to provide feedback or get updates!",
   "duration": 8,
   "cta": {
     "text": "Learn More",
