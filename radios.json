@@ -6,12 +6,6 @@
     "url": "https://kathy.torontocast.com/powerplay"
   },
   {
-    "name": "JPopsuki Radio",
-    "tagline": "We believe in music",
-    "logo": "https://ex-ds-dev.github.io/notifications/radiologos/jpopsuki.png",
-    "url": "http://jpopsuki.fm:8000/stream"
-  },
-  {
     "name": "Japan City Pop",
     "logo": "https://ex-ds-dev.github.io/notifications/radiologos/Japan-City-Pop.png",
     "tagline": "Ride the Waves of Retro Tokyo",
@@ -40,6 +34,18 @@
     "tagline": "Today and Back in the Day!",
     "logo": "https://ex-ds-dev.github.io/notifications/radiologos/santois.png",
     "url": "https://80s-90s.stream.laut.fm/80s-90s"
+  },
+  {
+    "name": "HearMe Nu-Metal",
+    "tagline": "Feel the aggression and energy of Nu Metal",
+    "logo": "https://ex-ds-dev.github.io/notifications/radiologos/numetal.png",
+    "url": "https://radio.hearme.fm:8570/stream"
+  },
+  {
+    "name": "JPopsuki Radio",
+    "tagline": "We believe in music",
+    "logo": "https://ex-ds-dev.github.io/notifications/radiologos/jpopsuki.png",
+    "url": "http://jpopsuki.fm:8000/stream"
   }
   
 ]
