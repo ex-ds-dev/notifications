@@ -1,10 +1,42 @@
 {
-  "enabled": true,
-  "duration_seconds": 5,
-  "title": "¿Te gusta la plataforma?",
-  "bodytext": "Puedes apoyar mi trabajo con un café :)",
-  "link": {
-    "url": "https://www.patreon.com/c/Exodus_cl",
-    "text": "MÁS INFORMACIÓN ACÁ"
-  }
+  "tips": [
+    {
+      "en": "Press Back to open Options Menu and Netplay Lobby.",
+      "en_cab": "Press Button 2 to open Options Menu and Netplay Lobby.",
+      "es": "Presiona Back para abrir el Menú de Opciones y Sala Online.",
+      "es_cab": "Presiona Botón 2 para abrir el Menú de Opciones y Sala Online.",
+      "duration_seconds": 10,
+      "color": "#00f3ff"
+    },
+    {
+      "en": "Move Left on the list to jump quickly by letter.",
+      "es": "Mueve a la Izquierda para saltar rápido por letra.",
+      "duration_seconds": 10,
+      "color": "#ffffff"
+    },
+    {
+      "en": "Add games to Favorites from the Start Game menu.",
+      "es": "Agrega juegos a Favoritos desde el menú de inicio.",
+      "duration_seconds": 10,
+      "color": "#00f3ff"
+    },
+    {
+      "en": "While in game, to configure buttons for MAME, press TAB on your keyboard.",
+      "es": "Durante el juego, para configurar botones en MAME, presiona TAB en tu teclado.",
+      "duration_seconds": 10,
+      "color": "#ffffff"
+    },
+    {
+      "en": "While in game, to configure buttons for FBNeo, press F1 on your keyboard.",
+      "es": "Durante el juego, para configurar botones en FBNeo, presiona F1 en tu teclado.",
+      "duration_seconds": 10,
+      "color": "#00f3ff"
+    },
+    {
+      "en": "If you need more help, you can visit patreon.com/exodus_cl",
+      "es": "Si necesitas más ayuda, puedes visitar patreon.com/exodus_cl",
+      "duration_seconds": 10,
+      "color": "#ffd700"
+    }
+  ]
 }
