@@ -1,10 +1,10 @@
 {
   "tips": [
     {
-      "en": "Press Back to open Options Menu and Netplay Lobby.",
-      "en_cab": "Press Button 2 to open Options Menu and Netplay Lobby.",
-      "es": "Presiona Back para abrir el Menú de Opciones y Sala Online.",
-      "es_cab": "Presiona Botón 2 para abrir el Menú de Opciones y Sala Online.",
+      "en": "Press Back Button to open the Options Menu and also view the Netplay Lobby.",
+      "en_cab": "Press Button 2 to open the Options Menu and also view the Netplay Lobby.",
+      "es": "Presiona Back/Select para abrir el Menú de Opciones y ver la Sala Online.",
+      "es_cab": "Presiona el Botón 2 para abrir el Menú de Opciones y ver la Sala Online.",
       "duration_seconds": 10,
       "color": "#00f3ff"
     },
