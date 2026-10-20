@@ -9,14 +9,14 @@
       "color": "#00f3ff"
     },
     {
-      "en": "Move Left on the list to jump quickly by letter.",
-      "es": "Mueve a la Izquierda para saltar rápido por letra.",
+      "en": "Move Left on the list to go to the jump to letter feature.",
+      "es": "Mueve a la Izquierda de la lista de juegos para poder navegar por letra.",
       "duration_seconds": 10,
       "color": "#ffffff"
     },
     {
-      "en": "Add games to Favorites from the Start Game menu.",
-      "es": "Agrega juegos a Favoritos desde el menú de inicio.",
+      "en": "You can enable the feature to show favorite games at the top of the list.",
+      "es": "Puedes activar la opción de mostrar tus juegos favoritos al principio de la lista.",
       "duration_seconds": 10,
       "color": "#00f3ff"
     },
