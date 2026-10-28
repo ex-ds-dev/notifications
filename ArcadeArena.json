@@ -1,6 +1,12 @@
 {
   "tips": [
     {
+      "en": "Don't forget to check the Weekly Challenge and set a new high score!",
+      "es": "¡No olvides participar en el Desafío Semanal y registrar tu récord!",
+      "duration_seconds": 10,
+      "color": "#ffd700"
+    },
+    {
       "en": "Press the Back / Select button to open the Options Menu and view the Netplay Lobby.",
       "en_cab": "Press Button 2 to open the Options Menu and view the Netplay Lobby.",
       "es": "Presiona Back / Select para abrir el Menú de Opciones y ver la Sala Online.",
@@ -19,12 +25,6 @@
       "es": "Puedes activar la opción de mostrar tus juegos favoritos al principio de la lista.",
       "duration_seconds": 10,
       "color": "#00f3ff"
-    },
-    {
-      "en": "Don't forget to check the Weekly Challenge and set a new high score!",
-      "es": "¡No olvides participar en el Desafío Semanal y registrar tu récord!",
-      "duration_seconds": 10,
-      "color": "#ffd700"
     },
     {
       "en": "You can customize in-game buttons in the frontend's Input Settings.",
