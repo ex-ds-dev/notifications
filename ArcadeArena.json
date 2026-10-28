@@ -1,34 +1,34 @@
 {
   "tips": [
     {
-      "en": "Press Back Button to open the Options Menu and also view the Netplay Lobby.",
-      "en_cab": "Press Button 2 to open the Options Menu and also view the Netplay Lobby.",
-      "es": "Presiona Back/Select para abrir el Menú de Opciones y ver la Sala Online.",
+      "en": "Press the Back / Select button to open the Options Menu and view the Netplay Lobby.",
+      "en_cab": "Press Button 2 to open the Options Menu and view the Netplay Lobby.",
+      "es": "Presiona Back / Select para abrir el Menú de Opciones y ver la Sala Online.",
       "es_cab": "Presiona el Botón 2 para abrir el Menú de Opciones y ver la Sala Online.",
       "duration_seconds": 10,
       "color": "#00f3ff"
     },
     {
-      "en": "Move Left on the list to go to the jump to letter feature.",
-      "es": "Mueve a la Izquierda de la lista de juegos para poder navegar por letra.",
+      "en": "Move Left in the game list to jump by letter.",
+      "es": "Muévete a la izquierda en la lista de juegos para navegar por letras.",
       "duration_seconds": 10,
       "color": "#ffffff"
     },
     {
-      "en": "You can enable the feature to show favorite games at the top of the list.",
-      "es": "Puedes activar la característica de mostrar tus juegos favoritos al principio de la lista.",
+      "en": "You can enable the option to show favorite games at the top of the list.",
+      "es": "Puedes activar la opción de mostrar tus juegos favoritos al principio de la lista.",
       "duration_seconds": 10,
       "color": "#00f3ff"
     },
     {
-      "en": "While in game, to configure buttons for MAME, press TAB on your keyboard.",
-      "es": "Durante el juego, para configurar botones en MAME, presiona TAB en tu teclado.",
+      "en": "Don't forget to check the Weekly Challenge and set a new high score!",
+      "es": "¡No olvides participar en el Desafío Semanal y registrar tu récord!",
       "duration_seconds": 10,
-      "color": "#ffffff"
+      "color": "#ffd700"
     },
     {
-      "en": "While in game, to configure buttons for FBNeo, press F1 on your keyboard.",
-      "es": "Durante el juego, para configurar botones en FBNeo, presiona F1 en tu teclado.",
+      "en": "You can customize in-game buttons in the frontend's Input Settings.",
+      "es": "Puedes personalizar los botones del emulador desde los ajustes de control de la interfaz.",
       "duration_seconds": 10,
       "color": "#00f3ff"
     },
